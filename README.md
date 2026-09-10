@@ -80,7 +80,7 @@ This project is built using **ReactJS** and **Vite** with a responsive and moder
 ## 📂 Project Structure
 
 ```text
-sokoban-react-vite/
+sokoban/
 │
 ├── public/
 │
@@ -109,7 +109,7 @@ git clone https://github.com/ajinkya029/sokoban.git
 ### 2️⃣ Navigate to the Project
 
 ```bash
-cd sokoban-react-vite
+cd sokoban
 ```
 
 ### 3️⃣ Install Dependencies
